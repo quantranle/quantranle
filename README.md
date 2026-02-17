@@ -28,7 +28,7 @@ Python (OpenCV, PyImageSearch, ML models), LipNet-based detection
 
 **Title:** *Mouth Detector with Combination between LipNet and PyImageSearch*
 
-- Implemented machine learning models in **Python (OpenCV, PyImageSearch, TensorFlow/PyTorch)** for real-time lip movement detection using computer vision techniques
+- Implemented machine learning models in **Python (OpenCV, PyImageSearch, TensorFlow)** for real-time lip movement detection using computer vision techniques
 - Developed and tested deep-learning–based mouth detection pipeline ([GitHub Repository](https://github.com/quantranle/MouthDetector.git)).
 - Ongoing research on advanced image processing for vowel recognition based on lip dynamics.
 - Publication: [Read paper](https://wjarr.com/content/mouth-detector-combination-between-lipnet-and-pyimagesearch).
