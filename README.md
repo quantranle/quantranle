@@ -1,4 +1,4 @@
-[![OldOfficeComputer](https://cdn3.emoji.gg/emojis/7404-oldofficecomputer.png)](https://emoji.gg/emoji/7404-oldofficecomputer)  **Welcome to Quan's Github**
+[![OldOfficeComputer](https://cdn3.emoji.gg/emojis/7404-oldofficecomputer.png)](https://emoji.gg/emoji/7404-oldofficecomputer)  **Welcome to Quan's GitHub**
 
 My name is **Quan Tran**, currently a final-year B.Sc. student in **Mechatronic Systems Engineering** at **Rhein-Waal University of Applied Sciences** in **Kleve, Germany**.
 
