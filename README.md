@@ -1,6 +1,6 @@
 [![OldOfficeComputer](https://cdn3.emoji.gg/emojis/7404-oldofficecomputer.png)](https://emoji.gg/emoji/7404-oldofficecomputer)  **Welcome to Quan's GitHub**
 
-My name is **Quan Tran**, currently a final-year B.Sc. student in **Mechatronic Systems Engineering** at **Rhein-Waal University of Applied Sciences** in **Kleve, Germany**.
+My name is **Quan Tran**, an M.Sc. student in **Mechatronics, Robotics and Biomechanical Engineering** at the **Technical University of Munich (TUM)**. I hold a B.Sc. in **Mechatronic Systems Engineering** from **Rhine-Waal University of Applied Sciences**.
 
 I completed an **internship in ESS Modeling & Simulation** at PowerCo SE (Volkswagen Group), gaining hands-on experience in **battery systems**, **BMS fundamentals**, and **energy storage modeling** using `MATLAB/Simulink/Simscape`.
 
